@@ -4,6 +4,6 @@
 > Will be updated if I can be bothered
 
 ## Subject Library
-all the subjects...
+all the subjects..
 
 [Computer Science](https://github.com/JackShort06/Notes/comp.sci.hub/)
