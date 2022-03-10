@@ -6,4 +6,4 @@
 ## Subject Library
 all the subjects...
 
-[Computer Science](./computer.science.hub.)
+[Computer Science](./compscihub.md)
